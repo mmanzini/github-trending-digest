@@ -3,7 +3,7 @@
 A self-healing browser harness that lets LLMs complete arbitrary web tasks. When a needed capability is missing, **the agent writes the helper function itself mid-task** — no framework overhead, ~592 lines total.
 
 - **Repo:** [browser-use/browser-harness](https://github.com/browser-use/browser-harness)
-- **Stars:** ~2.6K (2026-04-20, 3 days after launch)
+- **Stars:** ~4.6K (2026-04-22, 5 days after launch — up from ~2.6K on 2026-04-20)
 - **Created:** 2026-04-17
 - **Language:** Python
 

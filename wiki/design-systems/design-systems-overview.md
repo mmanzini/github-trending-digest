@@ -4,7 +4,10 @@ A small but coherent trending category: tooling and conventions that let coding 
 
 1. **A markdown convention** — `DESIGN.md`, popularised by [[awesome-design-md]]. Hand-curated brand snapshots that any file-reading agent can consume.
 2. **Automated extraction** — [[design-extract]] pulls the same kind of token set automatically from any live website, emitting DTCG tokens, MCP server, and multi-platform code (SwiftUI, Compose, Flutter, Tailwind v4, shadcn/ui).
-3. **Expressive output formats** — [[html-ppt-skill]] and [[fireworks-tech-graph]] live in the [[agent-skills-overview|skills folder]] but belong here too: they're how design-aware agents *render* output.
+3. **Expressive output formats** — [[html-ppt-skill]], [[fireworks-tech-graph]], [[diagram-design]], [[huashu-design]], and [[kami]] live in the [[agent-skills-overview|skills folder]] but belong here too: they're how design-aware agents *render* output.
+4. **Productised wrappers** — [[open-codesign]] packages the workflow as a multi-model desktop app; [[awesome-claude-design]] is VoltAgent's Claude-Code-branded cut of the DESIGN.md collection.
+
+A distinct Claude Code design micro-ecosystem crystallised during 2026-04 — four of the top-10 trending 2026-04-22 repos were Claude Code design extensions ([[huashu-design]], [[diagram-design]], [[awesome-claude-design]], [[open-codesign]]). The cluster's shared stance: HTML/SVG output, no Mermaid, editorial taste over framework conventions.
 
 ## Why It Matters
 - "Vibe-design" / "vibe-coding" are the trending vocabulary — design-by-conversation is now a recognised mode.
