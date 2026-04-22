@@ -3,7 +3,7 @@
 A feed-forward 3D foundation model for reconstructing scenes from streaming data.
 
 - **Repo:** [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-- **Stars:** ~2.7K (2026-04-20) — climbed steadily across 2026-04-18 → 2026-04-20
+- **Stars:** ~3.5K (2026-04-21) — climbed steadily across 2026-04-18 → 2026-04-21 (1.2K → 2.7K → 3.5K)
 - **Created:** 2026-04-15
 - **Language:** Python
 

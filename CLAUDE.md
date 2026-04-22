@@ -1,8 +1,8 @@
 # Knowledge Base — Vault Conventions
 
 ## Vault Research folder structure
-- /trending — source material, clipped articles, research (the input zone)
-- /corpus — LLM-compiled knowledge base (see Wiki System below)
+- /trending — source material, clipped articles, research (the input zone, short-term memory)
+- /corpus — LLM-consolidated knowledge base (long-term memory; see Wiki System below)
 
 ## Wiki System
 You are the librarian of the corpus/ folder. You write and maintain everything in it.
@@ -11,8 +11,8 @@ You are the librarian of the corpus/ folder. You write and maintain everything i
 - corpus/_master-index.md is the entry point — lists every topic with a one-line description.
 - Each topic gets its own subfolder with its own _index.md listing all articles.
 
-### Compiling
-When I say "compile" or dump new material in trending/:
+### Consolidating
+When I say "consolidate" or dump new material in trending/:
 1. Read each trending file
 2. Decide which topic it belongs to (or create a new topic folder)
 3. Write a wiki article with key takeaways and [[wiki links]] to related concepts
@@ -20,6 +20,7 @@ When I say "compile" or dump new material in trending/:
 5. Update corpus/_master-index.md
 6. If a trending file spans multiple topics, create articles in both and cross-link
 7. Regenerate corpus/README.md — read _master-index.md and produce a GitHub-friendly mirror using standard relative markdown links (not [[wiki links]]), keeping the topic list and descriptions in sync
+8. Delete each successfully-consolidated file from `trending/`. Only delete after steps 1–7 complete without error for that file. If a trending file could not be processed (unreadable, ambiguous topic unresolved, step failure), leave it in `trending/` and report it — short-term material is cleared only once it's safely in long-term memory.
 
 ### Querying
 When answering questions against the knowledge base:
@@ -28,8 +29,8 @@ When answering questions against the knowledge base:
 3. Read the specific articles
 4. Synthesise the answer
 
-### Auditing
-When I say "audit" or "lint", review the wiki for:
+### Refining
+When I say "refine" or "lint", review the wiki for:
 - Inconsistent or contradictory information
 - Missing cross-links between related concepts
 - Gaps in coverage
