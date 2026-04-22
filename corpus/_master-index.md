@@ -16,6 +16,7 @@ Knowledge base compiled from `trending/` GitHub digests. Each topic below has it
 - [[3d-models/_index|3D Foundation Models]] — feed-forward 3D scene reconstruction
 - [[developer-intelligence/_index|Developer Intelligence]] — AI-curated daily briefings and intelligence tools for builders
 - [[security/_index|Security]] — recurring security/vulnerability repos that don't fit other topics
+- [[image-generation/_index|Image Generation]] — community prompt libraries and tooling for AI image generation models
 
 ## Conventions
 - Source material lives in `trending/YYYY-MM-DD-trending.md`.

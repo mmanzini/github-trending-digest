@@ -16,6 +16,7 @@ Knowledge base compiled from the `trending/` GitHub digests. This README mirrors
 - [3D Foundation Models](./3d-models/_index.md) — feed-forward 3D scene reconstruction
 - [Developer Intelligence](./developer-intelligence/_index.md) — AI-curated daily briefings and intelligence tools for builders
 - [Security](./security/_index.md) — recurring security/vulnerability repos that don't fit other topics
+- [Image Generation](./image-generation/_index.md) — community prompt libraries and tooling for AI image generation models
 
 ## How to Use
 

@@ -4,3 +4,4 @@ AI-powered briefing, monitoring, and intelligence tools targeting builders and d
 
 ## Articles
 - [[builderpulse]] — daily AI-curated intelligence for indie hackers (20 questions × 10+ sources)
+- [[pyre-code]] — self-hosted ML coding practice platform (68 exercises: attention, RLHF, diffusion, flow matching)
