@@ -3,7 +3,7 @@
 A curated collection of 68 ready-to-use design system inspirations in `DESIGN.md` format, specifically framed around Claude Code. A Claude-Code-focused sibling to the broader [[awesome-design-md]].
 
 - **Repo:** [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design)
-- **Stars:** ~1.1K (2026-04-22, 4 days after launch)
+- **Stars:** ~1.3K (2026-04-23, 5 days after launch — up from ~1.1K on 2026-04-22)
 - **Created:** 2026-04-18
 - **Language:** none (markdown collection)
 - **Topics:** claude-code, claude-design, design-md, design-system, figma

@@ -3,7 +3,7 @@
 Community-built Rust CLI agent harness for Claude (and OpenAI). Run prompts and agent workflows from the terminal via `claw prompt "..."`. Explicitly **not affiliated with Anthropic** — positioned as an open-source alternative to the official [[claude-code-overview|Claude Code]].
 
 - **Repo:** [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-- **Stars:** 186K+ (as of 2026-04-20), reportedly the **fastest repo in GitHub history to surpass 100K stars** — hit it in under three weeks of its 2026-03-31 launch.
+- **Stars:** 187.6K (as of 2026-04-23), reportedly the **fastest repo in GitHub history to surpass 100K stars** — hit it in under three weeks of its 2026-03-31 launch.
 - **Language:** Rust
 - **Built on:** oh-my-codex
 

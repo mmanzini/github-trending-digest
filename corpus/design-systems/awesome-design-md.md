@@ -3,7 +3,7 @@
 A curated collection of `DESIGN.md` files inspired by popular brand design systems. Drop one into your project and a coding agent will generate UI matching that aesthetic. The "vibe-design" packaging format.
 
 - **Repo:** [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-- **Stars:** ~60K (2026-04-20)
+- **Stars:** ~63.5K (2026-04-23)
 - **Created:** 2026-03-31
 - **Language:** none (markdown collection)
 - **Topics:** awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design

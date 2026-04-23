@@ -3,7 +3,7 @@
 A community-curated collection of prompts and output examples for GPT-Image-2 — OpenAI's image generation model — covering portraits, poster designs, UI mockups, character sheets, and experimental use cases.
 
 - **Repo:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
-- **Stars:** ~1,303 (2026-04-22, 4 days after launch); previously 911 on 2026-04-21
+- **Stars:** ~2.0K (2026-04-23, 5 days after launch — up from ~1.3K on 2026-04-22)
 - **Created:** 2026-04-18
 - **Language:** Python
 - **Topics:** ai-art, awesome-list, gpt-image-2, image-generation, prompts

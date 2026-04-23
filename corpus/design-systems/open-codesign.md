@@ -3,7 +3,7 @@
 Open-source alternative to Claude Design. Desktop app (Electron + TypeScript) that one-click-imports your Claude Code / Codex API key and supports multi-model routing (Claude, GPT, Gemini, DeepSeek, Ollama).
 
 - **Repo:** [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-- **Stars:** ~700 (2026-04-22, 4 days after launch)
+- **Stars:** ~1.4K (2026-04-23, 5 days after launch — up from ~700 on 2026-04-22)
 - **Created:** 2026-04-18
 - **Language:** TypeScript
 - **Topics:** ai-design, anthropic, byok, claude, claude-code, claude-design-alternative, deepseek, design-to-code, desktop-app, electron, figma-alternative, gemini, local-first, multi-model, ollama, openai, openrouter, typescript, ui-generator

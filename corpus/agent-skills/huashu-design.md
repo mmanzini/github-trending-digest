@@ -3,7 +3,7 @@
 An HTML-native design skill for Claude Code. Positions itself as the "Chinese-native" (华术, *huashu*) entry in the emerging Claude Code design-skill micro-ecosystem.
 
 - **Repo:** [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
-- **Stars:** ~3.7K (2026-04-22, 3 days after launch)
+- **Stars:** ~4.7K (2026-04-23, 4 days after launch — up from ~3.7K on 2026-04-22)
 - **Created:** 2026-04-19
 - **Language:** HTML
 

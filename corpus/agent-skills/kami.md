@@ -3,7 +3,7 @@
 A document design system packaged as an agent skill. Six templates cover one-pager, resume, slides, portfolio, letter, and long-form doc. Works across Claude Code, Codex, and Claude Desktop — invoked in natural language, no slash commands.
 
 - **Repo:** [tw93/Kami](https://github.com/tw93/Kami)
-- **Stars:** ~1.9K (2026-04-22, 2 days after launch)
+- **Stars:** ~2.7K (2026-04-23, 3 days after launch — up from ~1.9K on 2026-04-22)
 - **Created:** 2026-04-20
 - **Language:** HTML
 

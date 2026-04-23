@@ -3,7 +3,7 @@
 Open-source AI memory system claiming the **best benchmarks** in its category. MCP-compatible, built on ChromaDB, designed for persistent agent memory across LLM sessions. Free and self-hostable.
 
 - **Repo:** [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
-- **Stars:** ~48K (2026-04-20) — hit ~46K in 11 days post-launch
+- **Stars:** ~49.1K (2026-04-23) — hit ~46K in 11 days post-launch
 - **Created:** 2026-04-05
 - **Language:** Python
 - **Topics:** ai, chromadb, llm, mcp, memory, python
