@@ -3,7 +3,7 @@
 A theoretical reconstruction of the Claude "Mythos" architecture, built from first principles using publicly available research literature. PyTorch implementation.
 
 - **Repo:** [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
-- **Stars:** ~9.1K (2026-04-23, 5 days after launch — up from ~7.5K on 2026-04-22)
+- **Stars:** ~9.8K (2026-04-24, 6 days after launch — up from ~9.1K on 2026-04-23)
 - **Created:** 2026-04-18
 - **Language:** Python
 - **Topics:** ai, anthropic, attention, claude, claude-ai, claude-code, pytorch, torch

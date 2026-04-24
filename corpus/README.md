@@ -17,6 +17,7 @@ Knowledge base compiled from the `trending/` GitHub digests. This README mirrors
 - [Developer Intelligence](./developer-intelligence/_index.md) — AI-curated daily briefings and intelligence tools for builders
 - [Security](./security/_index.md) — recurring security/vulnerability repos that don't fit other topics
 - [Image Generation](./image-generation/_index.md) — community prompt libraries and tooling for AI image generation models
+- [Misc Tools](./misc-tools/_index.md) — utility tools, document viewers, and accountability/preservation projects that don't fit structured topics
 
 ## How to Use
 

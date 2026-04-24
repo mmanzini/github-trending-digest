@@ -17,6 +17,7 @@ Knowledge base compiled from `trending/` GitHub digests. Each topic below has it
 - [[developer-intelligence/_index|Developer Intelligence]] — AI-curated daily briefings and intelligence tools for builders
 - [[security/_index|Security]] — recurring security/vulnerability repos that don't fit other topics
 - [[image-generation/_index|Image Generation]] — community prompt libraries and tooling for AI image generation models
+- [[misc-tools/_index|Misc Tools]] — utility tools, document viewers, and accountability/preservation projects that don't fit structured topics
 
 ## Conventions
 - Source material lives in `trending/YYYY-MM-DD-trending.md`.
