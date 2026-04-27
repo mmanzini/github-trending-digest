@@ -8,3 +8,4 @@ Tools and conventions that let coding agents produce on-brand, design-system-ali
 - [[awesome-claude-design]] — 68 ready-to-use DESIGN.md systems, Claude-Code-branded cut
 - [[design-extract]] — extract DESIGN.md-style tokens from any website (CLI + Claude Code plugin + MCP server)
 - [[open-codesign]] — open-source Claude Design alternative (Electron desktop app, multi-model, BYOK)
+- [[ppt-design-prompt]] — converts brand design guidelines into structured prompts for AI image generation

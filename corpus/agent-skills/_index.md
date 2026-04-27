@@ -14,3 +14,5 @@ The skill packaging format for Claude Code (and increasingly Codex / Cursor) —
 - [[huashu-design]] — HTML-native design skill (Chinese-language cut of the design cluster)
 - [[kami]] — six-template document design skill; cross-harness (Claude Code / Codex / Desktop)
 - [[diagram-design]] — thirteen editorial diagram types, HTML + SVG output
+- [[guizang-ppt-skill]] — magazine-style horizontal-swipe HTML decks with WebGL backgrounds
+- [[garden-skills]] — multi-skill collection (web design, RAG, image generation)
